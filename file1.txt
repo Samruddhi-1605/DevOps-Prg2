@@ -1,2 +1,7 @@
 Hello
+<<<<<<< HEAD
 Third line
+=======
+Hi,Second line
+>>>>>>> feature1
+New new line
